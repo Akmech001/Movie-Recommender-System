@@ -44,4 +44,8 @@ To run the Streamlit app:
 
 ## Demo Video
 
-[Movie Recommender System Demo](Demo/Movie%20Reommender%20system%20demo.mp4)
+<video width="600" controls>
+  <source src="https://raw.githubusercontent.com/Akmech001/Movie-Recommender-System/Demo/Movie%20Reommender%20system%20demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
