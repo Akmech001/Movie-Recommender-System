@@ -128,7 +128,7 @@ The `processed_data` directory contains the following files:
 
 
 ## Demo Video
-https://github.com/Akmech001/Movie-Recommender-System/blob/Data-Science-Capstone-Porject/Demo/Movie%20Reommender%20system%20demo.mp4
+[https://github.com/Akmech001/Movie-Recommender-System/blob/Data-Science-Capstone-Porject/Demo/Movie%20Reommender%20system%20demo.mp4](https://github.com/Akmech001/Movie-Recommender-System/raw/Data-Science-Capstone-Porject/Movie%20Reommender%20system%20demo.mp4)
 
 ## Conclusion
 
