@@ -126,6 +126,10 @@ The `processed_data` directory contains the following files:
 - `movie_dict.pkl`: Serialized dictionary of movie data.
 - `similarity.pkl`: Serialized similarity matrix.
 
+
+## Demo Video
+https://github.com/Akmech001/Movie-Recommender-System/blob/Data-Science-Capstone-Porject/Demo/Movie%20Reommender%20system%20demo.mp4
+
 ## Conclusion
 
 This project demonstrates the development of a movie recommender system using machine learning techniques. It includes data preprocessing, feature extraction, model building, and deployment using Streamlit. The provided scripts and instructions allow for easy setup and usage of the recommender system.
